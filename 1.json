@@ -1,7 +1,4 @@
-[
-  {
-    "productId": "1"
-    "name": "Test",
-    "version": "1.0.5"
-  },
-]
+{
+  "name": "Test",
+  "version": "1.0.5"
+}
